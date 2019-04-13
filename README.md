@@ -7,13 +7,13 @@
 	- повторить эксперимент для разных эмбедеров
 
 РЕЗУЛЬТАТЫ: 
-- датасет: 20newsgroups, 
+- датасет: 20newsgroups
 - эмбедеры: BERT, ELMO, universal-sentence-encoder
-- метрика: средний по классам roc_auc
+- метрика: средний roc_auc по классам 
 
 Все реализации в ноутбуках elmo.ipynb, bert.ipynb, uni_sent_emb.ipynb
 
-![alt text](https://github.com/mrdro1/few_shot/plots/all.png)
+![alt text](https://github.com/mrdro1/few_shot/blob/master/plots/all.png)
 
 
 2. Эксперимент 2 - Русский язык - Дедлайн: 22 апреля
