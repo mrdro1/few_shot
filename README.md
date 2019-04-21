@@ -6,7 +6,7 @@
 - построить график зависимости roc_auc/количество примеров для класса
 - повторить эксперимент для разных эмбедеров
 
-РЕЗУЛЬТАТЫ: 
+<strong>РЕЗУЛЬТАТЫ:</strong>
 - датасет: 20newsgroups
 - эмбедеры: BERT, ELMO, universal-sentence-encoder
 - метрика: средний roc_auc по классам 
@@ -20,7 +20,7 @@
 - реализовать ULMFIT для классификациии
 - построить график зависимости roc_auc/количество примеров для класса
 	
-РЕЗУЛЬТАТЫ: 
+<strong>РЕЗУЛЬТАТЫ:</strong>
 - датасет для LM: ria_news_dataset (https://github.com/RossiyaSegodnya/ria_news_dataset)
 - датасет для классификации: Lenta.Ru-News-Dataset (https://github.com/yutkin/Lenta.Ru-News-Dataset)
 - модель для классификации: bpe_30k->embedding->GRU_250->dense_100->dense_18
